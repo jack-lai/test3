@@ -1,1 +1,1 @@
-cat dog apple ant zoo horse elephant
+cat dog apple ant zoo horse ipad
